@@ -6,3 +6,4 @@ include:
   - board: seeeduino_xiao_ble # Replace with the Xiao-compatible board you're using
     shield: tester_xiao
 # there is no settingsreset (needed) for the XIAO
+sssfcfccqqqwwq
