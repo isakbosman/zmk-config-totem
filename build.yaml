@@ -3,7 +3,5 @@ include:
     shield: totem_left
   - board: seeeduino_xiao_ble
     shield: totem_right
-  - board: seeeduino_xiao_ble # Replace with the Xiao-compatible board you're using
+  - board: seeeduino_xiao_ble 
     shield: tester_xiao
-# there is no settingsreset (needed) for the XIAO
-sssfcfccqqqwwq
